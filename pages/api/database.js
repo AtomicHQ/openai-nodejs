@@ -1,4 +1,4 @@
-const {client, Client} = require('pg');
+const {Client} = require('pg');
 
 const client = new client({
     host: "localhost",
